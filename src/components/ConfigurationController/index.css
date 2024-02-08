@@ -1,0 +1,17 @@
+.main_nav {
+  background-color: #475569;
+  height: 150px;
+  padding-left: 100px;
+  padding-top: 10px;
+  color: white;
+}
+* {
+  margin: 0px;
+}
+
+.Navbar {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}

@@ -1,0 +1,27 @@
+.body_div {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0px;
+  text-align: center;
+}
+
+.left_div {
+  background-color: #e2e8f0;
+  height: 300px;
+  text-align: center;
+  margin-right: 10px;
+}
+
+.right_div {
+  background-color: #e2e8f0;
+  height: 300px;
+  text-align: center;
+  margin-left: 10px;
+}
+.middle_div {
+  background-color: #e2e8f0;
+  height: 300px;
+  text-align: center;
+}
